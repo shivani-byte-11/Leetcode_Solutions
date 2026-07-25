@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
