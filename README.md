@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0075-sort-colors) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
