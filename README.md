@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
