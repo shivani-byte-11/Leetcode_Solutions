@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
