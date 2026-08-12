@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Trie
 |  |
 | ------- |
