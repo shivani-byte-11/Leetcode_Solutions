@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
