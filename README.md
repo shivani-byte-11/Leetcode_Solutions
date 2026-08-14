@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Trie
