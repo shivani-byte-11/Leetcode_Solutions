@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1140-stone-game-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
