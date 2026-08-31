@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0746-min-cost-climbing-stairs](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
