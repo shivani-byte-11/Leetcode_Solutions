@@ -1,7 +1,6 @@
 class Solution {
 public:
     int tribonacci(int n) {
-        vector<int> dp(n+1, 0);
         int prev2 = 0;
         int prev1 = 1;
         int prev = 1;
