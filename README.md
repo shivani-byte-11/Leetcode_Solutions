@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
