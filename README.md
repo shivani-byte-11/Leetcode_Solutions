@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1140-stone-game-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [1386-cinema-seat-allocation](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0740-delete-and-earn](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
