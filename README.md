@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivanimandal908-del/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
